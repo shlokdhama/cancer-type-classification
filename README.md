@@ -29,7 +29,7 @@ can separate five cancer types with near-perfect accuracy using gene expression
 patterns alone.
 
 ## Dataset
-**Source**: TCGA RNA-Seq Gene Expression dataset via Kaggle
+**Source**: gene expression cancer RNA-Seq dataset via UCI
 **Samples**: 801 patient tumour samples
 **Features**: 20,531 gene expression values per sample
 **Target**: 5 cancer types
@@ -235,6 +235,7 @@ cancer-gene-expression-classification/
 ```
 
 ## Dataset Source
-[TCGA RNA-Seq Gene Expression on Kaggle](https://www.kaggle.com/datasets/crawford/gene-expression-cancer-rna-seq)
+  [TCGA RNA-Seq Gene Expression on UCI](https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq)
+
 The CSV files are not included due to file size. 
-Download directly from the Kaggle link above.
+Download directly from the link above.
